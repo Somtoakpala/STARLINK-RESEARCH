@@ -1,0 +1,24 @@
+\begin{thebibliography}{}
+
+\bibitem[Abbate, 2000]{abbate2000inventing}
+Abbate, J. (2000).
+\newblock {\em Inventing the internet}.
+\newblock MIT press.
+
+\bibitem[Leiner et~al., ]{leinerbrief}
+Leiner, B.~M., Cerf, V.~G., Clark, D.~D., Kahn, R.~E., Kleinrock, L., Lynch,
+  D.~C., Postel, J., Roberts, L.~G., and Wolff, S.
+\newblock Brief history of the internet.
+
+\bibitem[Mack, 2020]{mack2020history}
+Mack, E. (2020).
+\newblock The history of broadband.
+\newblock In {\em Geographies of the internet}, pages 63--76. Routledge.
+
+\bibitem[Moeyaert and Maier, 2011]{moeyaert2011network}
+Moeyaert, V. and Maier, G. (2011).
+\newblock Network technologies for broadband access.
+\newblock In {\em 2011 13th International Conference on Transparent Optical
+  Networks}, pages 1--5. IEEE.
+
+\end{thebibliography}
